@@ -24,16 +24,17 @@ Currently focusing on building applications and exploring how technology can sol
 
 ## 🛠️ Tech Stack
 Languages & Tools
-- Python  
-- Dart  
-- SQL  
-- Flutter  
-- Git & GitHub  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 Data & Analytics
-- RapidMiner  
-- Apache Spark (PySpark)  
-- MongoDB  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/RapidMiner_logo.png" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> 
 
 ---
 
