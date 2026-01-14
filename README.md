@@ -3,6 +3,9 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 Currently focusing on building applications and exploring how technology can solve real-world problems.
 
 ---
+</table>
+</tr>
+<td width="50%" valign="top">
 
 ## 🎓 About Me
 - 🎓 Computer Science Student (2023-Now)
