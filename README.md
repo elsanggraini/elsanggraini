@@ -15,7 +15,7 @@ Currently focusing on building applications and exploring how technology can sol
 - 🤖 Curious about Artificial Intelligence & Machine Learning
 
 </td>
-<td width="70%" valign="top">
+<td width="40%" valign="top">
 
 ## 📚 Currently Learning
 - Flutter & Dart  
