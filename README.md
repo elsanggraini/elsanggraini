@@ -3,7 +3,7 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 Currently focusing on building applications and exploring how technology can solve real-world problems.
 
 ---
-<table width="100%">
+
 <tr>
 <td width="60%" valign="top">
 
@@ -26,7 +26,7 @@ Currently focusing on building applications and exploring how technology can sol
   
 </td>
 </tr>
-</table>
+
 
 ## 🛠️ Tech Stack
 
