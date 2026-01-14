@@ -5,7 +5,7 @@ Currently focusing on building applications and exploring how technology can sol
 ---
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
 ## 🎓 About Me
 - 🎓 Computer Science Student (2023-Now)
