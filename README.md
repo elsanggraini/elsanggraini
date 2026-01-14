@@ -11,16 +11,19 @@ Currently focusing on building applications and exploring how technology can sol
 - 📊 Enjoy working with data analysis & prediction models
 - 🤖 Curious about Artificial Intelligence & Machine Learning
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 📚 Currently Learning
 - Flutter & Dart  
 - Python for Data Science  
 - SQL & Database Management  
 - Data Mining & Regression Analysis  
-- Apache Spark & Big Data Processing  
-
----
+- Apache Spark & Big Data Processing
+  
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
