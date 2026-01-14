@@ -3,9 +3,9 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 Currently focusing on building applications and exploring how technology can solve real-world problems.
 
 ---
-<table width="100%">
+<table width="130%">
 <tr>
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
 ## 🎓 About Me
 - 🎓 Computer Science Student (2023-Now)
@@ -15,7 +15,7 @@ Currently focusing on building applications and exploring how technology can sol
 - 🤖 Curious about Artificial Intelligence & Machine Learning
 
 </td>
-<td width="45%" valign="top">
+<td width="65%" valign="top">
 
 ## 📚 Currently Learning
 - Flutter & Dart  
