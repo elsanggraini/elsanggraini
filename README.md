@@ -5,7 +5,7 @@ Currently focusing on building applications and exploring how technology can sol
 ---
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## 🎓 About Me
 - 🎓 Computer Science Student (2023-Now)
@@ -15,7 +15,7 @@ Currently focusing on building applications and exploring how technology can sol
 - 🤖 Curious about Artificial Intelligence & Machine Learning
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## 📚 Currently Learning
 - Flutter & Dart  
