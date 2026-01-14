@@ -4,6 +4,7 @@ Currently focusing on building applications and exploring how technology can sol
 
 ---
 
+<table width="100%" border="0">
 <tr>
 <td width="60%" valign="top">
 
@@ -15,17 +16,18 @@ Currently focusing on building applications and exploring how technology can sol
 - 🤖 Curious about Artificial Intelligence & Machine Learning
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ## 📚 Currently Learning
 - Flutter & Dart  
 - Python for Data Science  
 - SQL & Database Management  
 - Data Mining & Regression Analysis  
-- Apache Spark & Big Data Processing
-  
+- Apache Spark & Big Data Processing  
+
 </td>
 </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
