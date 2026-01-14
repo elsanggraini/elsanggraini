@@ -3,7 +3,7 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 Currently focusing on building applications and exploring how technology can solve real-world problems.
 
 ---
-<table width="130%">
+<table width="135%">
 <tr>
 <td width="65%" valign="top">
 
@@ -15,7 +15,7 @@ Currently focusing on building applications and exploring how technology can sol
 - 🤖 Curious about Artificial Intelligence & Machine Learning
 
 </td>
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 ## 📚 Currently Learning
 - Flutter & Dart  
