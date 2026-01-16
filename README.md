@@ -31,10 +31,10 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="50"/>
 
 ### Data & Analytics
-<img src="https://img.shields.io/badge/RapidMiner-Data%20Mining-orange?style=flat-square" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35"/>
+<img src="https://img.shields.io/badge/RapidMiner-Data%20Mining-orange?style=flat-square" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50"/>
 
 ---
 
@@ -45,17 +45,6 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 - 📱 Designing simple and clean interfaces for mobile applications
 - 🤝 Able to collaborate between design and development workflow
   
----
-
-## 📌 Academic Projects
-- 📊 Life Expectancy Prediction using Linear Regression  
-- 🌾 Rice Price Prediction in Indonesia (2013–2023)  
-- 📱 ToDo List Mobile App using Flutter  
-- 🧠 AI & Technology Impact Presentation
-- 🌐 Website design project for a florist business as part of a course assignment.
-- 🎨 Visual design projects including posters, public service ads, and health-themed product packaging.
-- 🗄️ MySQL-based database project for store management system. 
-
 ---
 
 ## 📫 How to reach me
