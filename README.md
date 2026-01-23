@@ -39,11 +39,7 @@ I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Infor
 ---
 
 ## 🎨 Design & Creative Skills
-- 🎨 UI/UX Design using Figma
-- 🖌️ Graphic Design with Canva
-- ✏️ Vector & Illustration using Adobe Illustrator
-- 📱 Designing simple and clean interfaces for mobile applications
-- 🤝 Able to collaborate between design and development workflow
+<img src="figma.png" height="50"/> <img src="canva.webp" height="50"/> <img src="capcut.jpg" height="50"/>
   
 ---
 
