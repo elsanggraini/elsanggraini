@@ -45,5 +45,4 @@ I'm Elsa Anggraini, a 6th semester Computer Science student in Bina Sarana Infor
 
 ## 📫 How to reach me
 Email : anggrainie713@gmail.com
-📁 Portfolio : https://anggrainie713.wixsite.com/my-portofolio
 Feel free to connect with me or check out my repositories!
