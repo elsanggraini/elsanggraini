@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Elsa Anggraini, a 5th semester Computer Science student in Bina Sarana Informatika University with a strong interest in software development, data science, and modern technology.  
+I'm Elsa Anggraini, a 6th semester Computer Science student in Bina Sarana Informatika University with a strong interest in software development, data science, and modern technology.  
 
 ---
 
